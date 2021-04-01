@@ -1,4 +1,4 @@
-<!--- gh-md color="red" -->
+<!--- gh-md color="#1b74db" -->
 <!--- gh-md title="page one" -->
 
 # placeholder
