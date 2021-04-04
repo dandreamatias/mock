@@ -26,7 +26,7 @@
 ## some text
 
 
-<!--- gh-md title="page two" -->
+<!--- gh-md title="code" -->
 
 
 # Another Page
