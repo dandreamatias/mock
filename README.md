@@ -18,8 +18,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!--- gh-md start-ignore -->
+### this text will be ignored
+<!--- gh-md end-ignore -->
 
-## some text
+## some long text
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus mauris lorem, sit amet hendrerit tortor accumsan nec. Integer vulputate nec tortor vitae pharetra. Vivamus ac purus sapien. Donec posuere viverra consequat. Phasellus sit amet augue sit amet nulla gravida venenatis id vel elit. Nullam sollicitudin dolor non imperdiet dapibus. Sed faucibus massa urna, in condimentum tellus tincidunt vitae. Integer sit amet sapien nisl. Nulla ac molestie odio, vel malesuada urna. Suspendisse vitae cursus augue. Integer ac accumsan felis. Ut rhoncus, tellus eu sagittis ullamcorper, nibh mi ornare diam, vitae semper ligula purus ut tellus.
 
@@ -29,13 +31,7 @@ Ut venenatis porttitor metus ac pretium. Proin ex mauris, feugiat eget vehicula 
 
 Mauris nec arcu hendrerit, imperdiet est ut, faucibus lacus. Etiam in turpis quis enim ullamcorper facilisis. Proin pellentesque tortor egestas, lacinia leo vel, tincidunt mauris. Sed consequat odio in metus aliquet, non varius dolor congue. Aliquam lacinia non orci in dapibus. Quisque blandit ullamcorper turpis quis placerat. Donec at feugiat purus. Cras sit amet lorem nec massa placerat imperdiet vitae et lectus.
 
-<!--- gh-md end-ignore -->
-
-## some text
-
-
 <!--- gh-md title="code" -->
-
 
 # Another Page
 
