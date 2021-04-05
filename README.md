@@ -17,6 +17,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!--- gh-md start-ignore -->
 ### this paragraph will be ignored (soon)
+
+ignored text
+
+ignored text
+
+ignored text
+
 <!--- gh-md end-ignore -->
 
 ## some long text
@@ -34,7 +41,7 @@ Mauris nec arcu hendrerit, imperdiet est ut, faucibus lacus. Etiam in turpis qui
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ___
 
-## an exemple to show ho code is rendered
+## an example to show how code is rendered
 
 ```javascript
 if (isAwesome){
