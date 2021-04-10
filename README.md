@@ -1,4 +1,4 @@
-<!--- gh-md color="#1b74db" -->
+<!--- gh-md color="#d80954" -->
 <!--- gh-md title="home" -->
 
 # Mock
