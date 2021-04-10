@@ -1,5 +1,5 @@
 <!--- gh-md color="#d80954" -->
-<!--- gh-md title="home" -->
+
 
 # Mock
 ## This repository is just a mock to show how github-md works
@@ -8,7 +8,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--- gh-md title="page two" -->
+
 
 # placeholder2
 
@@ -35,7 +35,7 @@ Ut venenatis porttitor metus ac pretium. Proin ex mauris, feugiat eget vehicula 
 
 Mauris nec arcu hendrerit, imperdiet est ut, faucibus lacus. Etiam in turpis quis enim ullamcorper facilisis. Proin pellentesque tortor egestas, lacinia leo vel, tincidunt mauris. Sed consequat odio in metus aliquet, non varius dolor congue. Aliquam lacinia non orci in dapibus. Quisque blandit ullamcorper turpis quis placerat. Donec at feugiat purus. Cras sit amet lorem nec massa placerat imperdiet vitae et lectus.
 
-<!--- gh-md title="code" -->
+
 
 # Another Page
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
