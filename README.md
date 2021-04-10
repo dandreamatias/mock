@@ -1,5 +1,5 @@
-<!--- gh-md color="#d80954" -->
-<!--- gh-md title="home" icon="fa fas-home" -->
+<!--- ghdoc primary-color="#d80954" theme="dark" -->
+<!--- ghdoc title="home" icon="fa fas-home" -->
 
 # Mock
 ## This repository is just a mock to show how github-md works
@@ -8,14 +8,13 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--- gh-md title="documentation" -->
-
+<!--- ghdoc title="documentation" -->
 # placeholder2
 
 ## some text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--- gh-md start-ignore -->
+<!--- ghdoc start-ignore -->
 ### this paragraph will be ignored (soon)
 
 ignored text
@@ -23,8 +22,7 @@ ignored text
 ignored text
 
 ignored text
-
-<!--- gh-md end-ignore -->
+<!--- ghdoc end-ignore -->
 
 ## some long text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus mauris lorem, sit amet hendrerit tortor accumsan nec. Integer vulputate nec tortor vitae pharetra. Vivamus ac purus sapien. Donec posuere viverra consequat. Phasellus sit amet augue sit amet nulla gravida venenatis id vel elit. Nullam sollicitudin dolor non imperdiet dapibus. Sed faucibus massa urna, in condimentum tellus tincidunt vitae. Integer sit amet sapien nisl. Nulla ac molestie odio, vel malesuada urna. Suspendisse vitae cursus augue. Integer ac accumsan felis. Ut rhoncus, tellus eu sagittis ullamcorper, nibh mi ornare diam, vitae semper ligula purus ut tellus.
@@ -35,10 +33,8 @@ Ut venenatis porttitor metus ac pretium. Proin ex mauris, feugiat eget vehicula 
 
 Mauris nec arcu hendrerit, imperdiet est ut, faucibus lacus. Etiam in turpis quis enim ullamcorper facilisis. Proin pellentesque tortor egestas, lacinia leo vel, tincidunt mauris. Sed consequat odio in metus aliquet, non varius dolor congue. Aliquam lacinia non orci in dapibus. Quisque blandit ullamcorper turpis quis placerat. Donec at feugiat purus. Cras sit amet lorem nec massa placerat imperdiet vitae et lectus.
 
-<!--- gh-md title="example" -->
-
-
-# Another Page
+<!--- ghdoc title="example" -->
+# example
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ___
 
